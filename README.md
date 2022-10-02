@@ -12,5 +12,5 @@
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaquette&layout=compact&langs_count=7&theme=dracula"/>
  </div>
     <div>
-        https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+        !https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
     </div>
