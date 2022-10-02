@@ -8,4 +8,4 @@
 - 📚 graduated in HTML CSS and JAVA, and concluding analysis and systems development
 
  
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsaquette&theme=dark&show_icons=true)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsaquette&theme=merko&show_icons=true)
