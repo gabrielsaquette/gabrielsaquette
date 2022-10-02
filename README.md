@@ -11,9 +11,6 @@
         <a href="https://github.com/gabrielsaquette">
         <img height="42%" src="https://github-readme-stats.vercel.app/api?username=gabrielsaquette&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaquette&layout=compact&langs_count=7&theme=dracula"/>
+            <img https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
     </div>
-    
-    
-     <div>
-        <img https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
-     </div>
+ 
