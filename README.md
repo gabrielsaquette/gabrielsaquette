@@ -1,19 +1,14 @@
 <img src="https://www.impacta.com.br/blog/wp-content/uploads/2017/03/shutterstock_461604766.jpg"/>
     <div>
-    <li> Hi, my name is Gabriel Regis Saquette and i'm 23 years old</li>
-    <li> I'm from Brazil, a big passionate in technology</li>
-    <li> Concluding Analise e Desenvolvimento de Sistemas on <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a></li>
-    <li> Always learning about Front-End and Back-End on <a href="https://www.alura.com.br/" target="_blank">Alura</a></li>
-
+    <li> Hi, my name is Gabriel Regis Saquette and i'm 27 years old</li>
+    <li> I'm from Brazil, a big passionate in technology, Mid-Level Developer (PHP, Javscript, MySQL and React Native</li>
 </div>
 
 <hr>
 
  
-<li> 🔭 I’m currently working with logistics</li>
-<li> 🌱 I’m currently learning Python and React (Type and Java)</li>
-<li> 👯 I’m looking to collaborate on Front-End</li>
-<li> 📚 graduated in HTML CSS and JAVA, and concluding analysis and systems development</li>
+<li> 🔭 I’m currently working with development for 3 years</li>
+<li> 📚 PHP, JAVASCRIPT, REACT NATIVE, MYSQL, LINUX, SERVERS, FULL STACK</li>
    
 
 <hr>
