@@ -13,10 +13,5 @@
 
 <hr>
 
-   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsaquette&theme=gruvbox_light&show_icons=true)
-  
-  
-<hr>
      
  <li> gabrielsaquettecontato@gmail.com</li>
