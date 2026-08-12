@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Gabriel Saquette 👋</h1>
+<h1 align="center">Olá, eu sou Gabriel Saquette </h1>
 <h3 align="center">Desenvolvedor Fullstack Pleno | PHP/Laravel • ReactJS • React Native • Node.js</h3>
 
 <p align="center">
@@ -16,18 +16,18 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim
 
-- 🔭 Atualmente trabalho mantendo um **sistema legado** e um **app mobile** em produção
-- 🏗️ Estou construindo **2 ERPs pessoais** para portfólio, aplicando boas práticas de arquitetura
-- 🧱 Base sólida em **princípios SOLID** e versionamento com **Git/GitHub**
-- 🌱 Sempre evoluindo em arquitetura de software, escalabilidade e boas práticas de código
-- 💬 Fale comigo sobre PHP, Laravel, React, React Native ou arquitetura de sistemas
-- ⚡ Fun fact: transformo requisitos vagos em sistemas que funcionam (e escalam)
+- Atualmente trabalho mantendo um **sistema legado** e um **app mobile** em produção
+- Estou construindo **2 ERPs pessoais** para portfólio, aplicando boas práticas de arquitetura
+- Base sólida em **princípios SOLID** e versionamento com **Git/GitHub**
+- Sempre evoluindo em arquitetura de software, escalabilidade e boas práticas de código
+- Fale comigo sobre PHP, Laravel, React, React Native ou arquitetura de sistemas
+- Fun fact: transformo requisitos vagos em sistemas que funcionam (e escalam)
 
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
