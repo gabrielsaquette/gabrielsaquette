@@ -47,19 +47,3 @@
 </p>
 
 ---
-
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&hide_border=true" />
-</p>
-
----
-
-<p align="center"><i>Código limpo hoje, menos dor de cabeça amanhã.</i></p>
