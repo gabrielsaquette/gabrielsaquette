@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Fullstack Pleno | PHP/Laravel • ReactJS • React Native • Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+h%C3%A1+4+anos;Laravel+%2B+ReactJS+%2B+React+Native;Constru%C3%ADndo+ERPs+de+portf%C3%B3lio;Aplicando+SOLID+no+dia+a+dia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack+h%C3%A1+4+anos;Laravel+%2B+ReactJS+%2B+React+Native;Constru%C3%ADndo+ERPs+Empresariais;Aplicando+SOLID+no+dia+a+dia" alt="Typing SVG" />
 </p>
 
 <p align="center">
